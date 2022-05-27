@@ -350,8 +350,7 @@ main .sobre-nosotros {
     }
     /* ABOUT US */
     .imagen-about-us {
-        margin-bottom: 60px;
-        width: 99%;
+        height: 250px;
     }
     .sobre-nosotros .contenido-textos {
         width: 95%;
