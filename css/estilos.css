@@ -192,7 +192,7 @@ background: linear-gradient(to right, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, F
 
     
     
-} 
+}    
 
 .titulo-clientes{
     color: #fff;
@@ -528,10 +528,10 @@ main .sobre-nosotros {
         font-size: 15px;
     }
     .servicio-ind h3 {
-        font-size: 10px;
+        font-size: 9px;
     }
     .servicio-ind ul {
-        font-size: 10px;
+        font-size: 9px;
     }
     nav {
         text-align: center;
@@ -549,7 +549,8 @@ main .sobre-nosotros {
     /* ABOUT US */
     .imagen-about-us {
         margin-bottom: 60px;
-        width: 99%;
+        width: 30px;
+        height: 30px;
     }
     .sobre-nosotros .contenido-textos {
         width: 95%;
